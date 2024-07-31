@@ -1,4 +1,3 @@
-```markdown
 # Expense Tracker
 
 An intuitive web application for tracking your daily expenses. Built using React and Firebase, this app allows users to add, view, and delete items, while also calculating the total cost of the items.
